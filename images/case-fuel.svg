@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="300" viewBox="0 0 520 300">
+  <rect width="520" height="300" fill="#fbf8ff"/>
+  <image href="pattern.svg" width="520" height="300" opacity=".65"/>
+  <rect x="255" y="48" width="130" height="210" rx="26" fill="#160b12"/>
+  <rect x="145" y="34" width="114" height="232" rx="24" fill="#121212"/>
+  <rect x="157" y="58" width="90" height="184" rx="8" fill="#211112"/>
+  <circle cx="202" cy="91" r="24" fill="#f45a30"/>
+  <rect x="174" y="134" width="56" height="12" rx="6" fill="#f45a30"/>
+  <rect x="174" y="162" width="58" height="8" rx="4" fill="#6f5b55"/>
+  <text x="280" y="162" font-family="Arial" font-size="28" font-weight="800" fill="#fff">VSE</text>
+</svg>
